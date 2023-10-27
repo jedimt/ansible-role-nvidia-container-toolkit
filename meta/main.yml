@@ -1,0 +1,19 @@
+galaxy_info:
+  author: jedimt
+  role_name: nvidia_container_toolkit
+  description: Install and configure NVIDIA container toolkit
+
+  license: MIT
+
+  min_ansible_version: "8"
+
+  platforms:
+    - name: Ubuntu
+      versions:
+        - jammy
+
+  galaxy_tags:
+    - linux
+    - nvidia
+
+dependencies: []

@@ -1,0 +1,4 @@
+---
+# vars file for ansible-role-nvidia-container-toolkit
+
+nvidia_container_toolkit_gpgkey_url: 'https://nvidia.github.io/libnvidia-container/gpgkey'
